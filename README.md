@@ -1,2 +1,5 @@
 # papa-heriberto
 primer repo creado en git hub
+
+## descripcion
+Este es un repo de heriberto, creado solo para el curso de git
